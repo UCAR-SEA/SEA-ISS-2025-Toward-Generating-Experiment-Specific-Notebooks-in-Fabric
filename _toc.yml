@@ -2,7 +2,7 @@ format: jb-book
 root: README
 
 parts:
-  - caption: Toward Generating Experiment-Specific Notebooks in FABRIC
+  - caption: Contents
     chapters:
       - file: notebooks/introduction.ipynb
       - file: notebooks/motivation.ipynb
@@ -14,4 +14,3 @@ parts:
       - file: notebooks/further_work.ipynb
       - file: notebooks/conclusion.ipynb
       - file: notebooks/bibliography.ipynb
-      - file: references.bib
